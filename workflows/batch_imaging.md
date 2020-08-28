@@ -1,8 +1,8 @@
-#Batch Imaging of Labels and Specimens
+# Batch Imaging of Labels and Specimens
 
 This workflow is for digitizing specimens from the MAJC by capturing the labels and dorsal habitus of the specimen in a single image.
 
-##Set-up
+## Set-up
 * Access the imaging system, makesure the space and equipment is free
 * Select the drawer you will be digitizing specimens from, bring it to the workstation
 * Have MAJC catalog number labels ready
@@ -37,16 +37,16 @@ After imaging a set of specimens, create a list of catalog number ranges and the
 **Update this later**
 All images must be imported to *apple photos* in an albumn with todays date.
 
-##Export images
+## Export images
 **update this later**
 Export images with catalogNumber as file name - export as large jpgs with slight compression
 
-##Upload to ecdysis
+## Upload to ecdysis
 **update this later**
 Upload to folder [to be established]
 Upload skeletal file containing catalog numbers and species determinations
 
-##Data entry and transcription
+# Data entry and transcription
 **update this later**
 Set processing status accordingly
 Write guide to include collecting event matching, georeferencing, and OCR text extraction, as needed.
