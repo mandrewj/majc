@@ -28,9 +28,10 @@ This workflow is for digitizing specimens from the MAJC by capturing the labels 
 
 
 ## Recording your progress
-After imaging a set of specimens, create a list of catalog number ranges and the correlating species within those ranges, such as:
-* MAJC001200 - MAJC001300 Eleodes armata
-* MAJC001301 - MAJC001400 Eleodes longicollis
+After imaging a set of specimens, create a list of catalog number ranges and the correlating species identifications within those ranges, such as:
+* MAJC0001200 - MAJC0001300 Eleodes armata M.A. Johnston 2015
+* MAJC0001301 - MAJC0001400 Eleodes longicollis M.A. Johnston 2018
+* MAJC0001401 - MAJC0001405 Eleodes longicollis M.A. Johnston 2020
 * etc
 
 ## Upload images to computer
