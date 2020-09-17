@@ -36,13 +36,17 @@ After imaging a set of specimens, create a list of catalog number ranges and the
 
 ## Upload images to computer
 **Update this later**
-All images must be imported to *apple photos* in an albumn with todays date.
+All images must be imported to *Adobe Bridge* in an albumn with todays date.
+Import images from SD card. Prune out duplicates/bad photos.  Use batch rename tool to serially name images, confirm that true catalog number is labelled corectly.
 
 ## Export images
 **update this later**
 Export images with catalogNumber as file name - export as large jpgs with slight compression
-Use Adobe Bridge.  Import images from SD card. Prune out duplicates/bad photos.  Use batch rename tool to serially name images, confirm that true catalog number is labelled corectly. export using JPG high profile.
-
+Use Adobe Bridge to export using JPG high profile.
+Batch rename '.jpeg' files in command line:
+```
+for file in *.jpeg; do mv $file ${file%.jpeg}.jpg; done
+```
 ## Upload to ecdysis
 **update this later**
 Use scp from local directory to copy files to image repository.
