@@ -41,11 +41,14 @@ All images must be imported to *apple photos* in an albumn with todays date.
 ## Export images
 **update this later**
 Export images with catalogNumber as file name - export as large jpgs with slight compression
+Use Adobe Bridge.  Import images from SD card. Prune out duplicates/bad photos.  Use batch rename tool to serially name images, confirm that true catalog number is labelled corectly. export using JPG high profile.
 
 ## Upload to ecdysis
 **update this later**
-Upload to folder [to be established]
+Use scp from local directory to copy files to image repository.
+Upload to folder /mnt/storage/image_processing/images/ecdysis/MAJC (or subdirectory there)
 Upload skeletal file containing catalog numbers and species determinations
+run batch image loader.
 
 # Data entry and transcription
 **update this later**
