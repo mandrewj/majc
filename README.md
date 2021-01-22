@@ -7,7 +7,7 @@ The M. Andrew Johnston Research Collection is comprised primarily of beetles, es
 
 #### [MAJC on GBIF](http://www.gbif.org/dataset/59728459-7b42-4942-8e38-00eb56f2331e)
 
-### Contact: ajohnston@asu.edu
+#### Contact: ajohnston@asu.edu
 
 # 
 
