@@ -14,7 +14,7 @@ Tools are available for any collection a user is granted permissions for.
 
 ## Editor Tools
 These tools are what most users will have access to for general collections-related tasks.
-
+* 'Add New Occurrence Record' is the most commonly used tool. See the [Add New Occurrence Workflow](/workflows/specimenDigitization/)
 
 ## Administrator Tools
 These tools are only available to collection administrators and generally involve the ability to do drastic changes to the collection metadata, allow new users to access the collection, and give access to a number of powerful (and potentially dangerous) batch-update tools.
