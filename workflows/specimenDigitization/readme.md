@@ -73,5 +73,17 @@ Toggle the additional georeferencing fields by clicking the +pencil icon on the 
 * Always add 'Georeference Sources' information, typically 'label' or 'GeoLocate' or 'Google Earth'
 
 ## 
-## 
+## Digitize additional occurrence data and metadata
+Any additional label data or specimen metadata can be added in the last two groups of fields called 'Misc' and 'Curation' at the bottom of the page.
+
+* Label data about habitat or substrate can be added to the appropriate fields
+* 'Occurrence Remarks' is a catch-all field that can hold any other information about the specimen or on the label that doesn't fit elsewhere.
+* Specimen information such as life stage, individual count, and phenology are somewhat self explanatory.  Generally a pinned insect is simply 'adult' and '1' for life stage and individual count.
+* 'Preparations' is where data like 'Pinned Specimen' or 'slide mounted' or 'dissection' can be applied.
+* 'Type Status' (e.g., Holotype or paratype, etc) and Disposition (in the MAJC used for the tissue collection freezer location) and other possible override fields are available inthe curation section.  These are generally not used for most specimens being digitized. 
+
 ![Occurrence Editor Form 2](occurrenceEdit2.png)
+
+## 
+## 
+
