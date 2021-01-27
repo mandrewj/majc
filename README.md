@@ -11,12 +11,11 @@ The M. Andrew Johnston Research Collection is comprised primarily of beetles, es
 
 # 
 
-## Templates
-[The Templates directory](/templates) contains MAJC template files for catalog number generation, etc.
-
 ## Workflows
 [The Workflows directory](/workflows) contains scripts and workflows for digitization of the MAJC.
 
+## Templates
+[The Templates directory](/templates) contains MAJC template files for catalog number generation, etc.
 
 ## Data Backups
 [The Data Backup directory](/data_backup) contains periodic Darwin Core Archive backups of the MAJC specimen data.
