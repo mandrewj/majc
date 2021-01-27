@@ -60,7 +60,7 @@ Click the map-swirl icon next to the GPS coordinate fields to open the GeoLocate
 
 #### Georeference utilizing Google Maps
 Google Maps can be utilized within Ecdysis by clicking the globe next to the GPS coordinate fields.  This canbe used to manually click on a map or to visualize verbatim GPS data.  This will pop up a new window that will show a point on the map and a radius for any input uncertainty.
-![Georeferencing by Google Maps](georeferencingGoogleEarth.png)
+![Georeferencing by Google Maps](georeferenceGoogleMaps.png)
 * Follow onscreen instructions to apply new GPS data after clicking on a point on the map.
 * Visualize existing coordinates from the label to make sure they were accuratly put onto the label.
 
