@@ -2,9 +2,9 @@
 
 This directory contains workflows used within the MAJC.  Most are compatible with any Symbiota Light (or generally Symbiota) installations.  Screenshots are taken from the Ecdysis portal, but the tools included are the same on other portals.
 
-## [Single Specimen Digitization](/specimenDigitization)
+## [Single Specimen Digitization](/workflows/specimenDigitization)
 
-## [Batch Image Processing](/batchImages)
+## [Batch Image Processing](/workflows/batchImages)
 
 ## more to come
 
